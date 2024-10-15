@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm xaviermatroski</h1>
 <h3 align="center">Having my way with technology</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/WkgpyPpxpDUAAAAM/work-internet.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/WkgpyPpxpDUAAAAM/work-internet.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaviermatroski&label=Profile%20views&color=0e75b6&style=flat" alt="xaviermatroski" /> </p>
 
@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **I like gaming and watching movies**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
